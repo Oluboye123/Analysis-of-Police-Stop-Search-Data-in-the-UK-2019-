@@ -32,9 +32,17 @@ This project analyzes **UK police stop-and-search data** to uncover trends, asse
 ---
 
 ## **📊 Key Research Questions**
-1️⃣ **How many teenagers were stopped and searched by Cleveland Police in July 2020?**  
-2️⃣ **What is the breakdown of age groups affected by stop and search?**  
-3️⃣ **Did the number of searches decrease during the UK’s first COVID-19 lockdown?**  
+1 **Which police force conducted the highest number of stop-and-search operations?**
+
+2 **How does the frequency of stop-and-search vary by police force?**
+
+3 **What is the gender distribution of individuals stopped and searched?**
+
+4 **Which age groups are most frequently searched?**
+
+5 **Are certain ethnic groups more likely to be stopped and searched?**
+
+^ **What time of day do most stop-and-search incidents occur? Was there a change in stop-and-search patterns during major events (e.g., COVID-19 lockdowns)?**  
 
 ---
 
@@ -70,12 +78,7 @@ This project analyzes **UK police stop-and-search data** to uncover trends, asse
 ---
 
 ## **📌 Key Findings**
-Which police force conducted the highest number of stop-and-search operations?
-How does the frequency of stop-and-search vary by police force?
-What is the gender distribution of individuals stopped and searched?
-Which age groups are most frequently searched?
-Are certain ethnic groups more likely to be stopped and searched?
-What time of day do most stop-and-search incidents occur? Was there a change in stop-and-search patterns during major events (e.g., COVID-19 lockdowns)?
+
 
 
 ---
