@@ -1,7 +1,8 @@
 # Analysis-of-Police-Stop-Search-Data-in-the-UK-2019-
 How to run the program: 
 The entire code for the program has been written using python 3.9.6. The codes have been broken into modules namely: 
-•	**APK**: This module creates a GUI and likewise interacts with other modules to produce the charts. 
+
+•	**APK_module**: This module creates a GUI and likewise interacts with other modules to produce the charts. 
 
 •	**API_Module**: This module extracts Stop & Search data via API. 
 
