@@ -77,11 +77,60 @@ This project analyzes **UK police stop-and-search data** to uncover trends, asse
 
 ---
 
-## **📌 Key Findings**
-
-
+📌 **Question Answered:** Which police force conducted the most stop-and-searches?  
+✅ **Finding:** Some police forces conducted significantly more stop-and-search operations than others, suggesting regional variations in enforcement policies.
 
 ---
+
+## 2️⃣ Gender and Age Distribution
+📌 **Question Answered:** Who is stopped the most based on gender and age?  
+✅ **Finding:**  
+- Males were searched significantly more than females, indicating a gender disparity.  
+- Young adults (ages 18-24) were the most frequently searched group, raising questions about targeted demographics.
+
+---
+
+## 3️⃣ Search Methods & Outcomes
+📌 **Question Answered:** Is there a link between more invasive searches and specific outcomes?  
+✅ **Finding:**  
+- People who had more than their outer clothing removed showed varying search outcomes, with some leading to further action while others did not.
+
+---
+
+## 4️⃣ Ethnicity & Stop-and-Search Discrepancies
+📌 **Question Answered:** How does self-reported ethnicity compare to officer-defined ethnicity?  
+✅ **Finding:**  
+- Officer-defined ethnicity sometimes differs from self-defined ethnicity, indicating potential inconsistencies or biases in police classification.
+
+---
+
+## 5️⃣ Search Type Distribution
+📌 **Question Answered:** Were more people or vehicles searched?  
+✅ **Finding:**  
+- The majority of stop-and-searches were **"Person Searches"**, with **Vehicle Searches** being much less common.
+
+---
+
+## 6️⃣ Most Common Legal Justifications
+📌 **Question Answered:** Which laws were most frequently cited for stop-and-searches?  
+✅ **Finding:**  
+- Certain legislation powers were used disproportionately(Drug misuse act), suggesting reliance on specific laws for justifying searches.
+
+---
+
+## 7️⃣ Searches by Hour of the Day
+📌 **Question Answered:** When do most stop-and-searches occur?  
+✅ **Finding:**  
+- Stop-and-search activity fluctuated throughout the day, with peak search times appearing at specific hours, potentially indicating patterns in policing behavior.
+
+---
+
+🔍 **Conclusion:**  
+The data suggests notable variations in stop-and-search activity across different police forces, demographic groups, and legal justifications. These insights can help inform discussions around policing policies and potential areas for reform.
+
+
+
+
 
 ## **🗂️ Data Processing Workflow**
 1️⃣ **Data Retrieval**  
@@ -101,14 +150,6 @@ This project analyzes **UK police stop-and-search data** to uncover trends, asse
 4️⃣ **Testing & Validation**  
    - **Unit tests** ensure pipeline integrity.  
    - **Cross-validation** confirms **API vs. static data consistency**.  
-
----
-
-## **📌 Key Findings**
-📉 **Stop-and-search incidents decreased** significantly during the **first COVID-19 lockdown (March 2020)**.  
-📌 **Teenagers (13-19 years) were disproportionately affected**, particularly males.  
-📌 **Cleveland Police conducted X number of searches on teenagers in July 2020**.  
-📊 **Regional disparities exist** – Some police forces have higher stop-and-search rates than others.  
 
 ---
 
