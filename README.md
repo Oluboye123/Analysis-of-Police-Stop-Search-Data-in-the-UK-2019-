@@ -1,21 +1,25 @@
 # Analysis-of-Police-Stop-Search-Data-in-the-UK-2019-
 How to run the program: 
 The entire code for the program has been written using python 3.9.6. The codes have been broken into modules namely: 
-•	APK: This module creates a GUI and likewise interacts with other modules to produce the charts. 
-•	API_Module: This module extracts Stop & Search data via API. 
-•	Data Cleaning module: Cleans the datasets and extracts additional features from the datasets 
-•	Visualization module: This module contains functions that generate visual charts from the dataset. 
+•	**APK**: This module creates a GUI and likewise interacts with other modules to produce the charts. 
+
+•	**API_Module**: This module extracts Stop & Search data via API. 
+
+•	**Data Cleaning module**: Cleans the datasets and extracts additional features from the datasets 
+
+•	**Visualization module**: This module contains functions that generate visual charts from the dataset. 
+
 The entire program runs fully from the APK module. 
- To run the entire program, run the APK module either from the command prompt terminal (by double clicking the APK module) or from the python terminal. The charts will Open in a new window, close each figure to generate the next figure. NOTE THAT IT MIGHT TAKE A WHILE BEFORE CHARTS GET DISPLAYED. 
+
+To run the entire program, run the APK module either from the command prompt terminal (by double clicking the APK module) or from the python terminal. The charts will Open in a new window, close each figure to generate the next figure. NOTE THAT IT MIGHT TAKE A WHILE BEFORE CHARTS GET DISPLAYED. 
 Dependency Information: 
 The dependency library used are: pandas, matplotlib, seaborn and pywaffle. These libraries can be installed on your local system by using the pip command in the command prompt terminal 
 
 
 # 🚔 UK Police Stop and Search Data Analysis
-### 📊 Data Science Project | Practitioner Level
 
 ## **🔍 Overview**
-This project analyzes **UK police stop-and-search data** to uncover trends, assess the impact of policing strategies, and provide data-driven insights. Using **Python, data science techniques, and visualization tools**, this analysis answers key questions on **age distribution, geographical trends, and policy implications**.
+This project analyzes **UK police stop-and-search data** to uncover trends, assess the impact of policing strategies, and provide data-driven insights. Using **Python and visualization tools**, this analysis answers key questions on **age distribution, geographical trends, and policy implications**.
 
 ## **📌 Objectives**
 ✅ Retrieve **stop-and-search records** via API or pre-downloaded datasets.  
